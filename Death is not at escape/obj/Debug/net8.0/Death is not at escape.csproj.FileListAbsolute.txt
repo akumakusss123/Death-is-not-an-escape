@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\Death is not at escape\Death is not at escape\bin\Debug\net8.0\Death is not at escape.exe
+C:\Users\Student\source\repos\Death is not at escape\Death is not at escape\bin\Debug\net8.0\Death is not at escape.deps.json
+C:\Users\Student\source\repos\Death is not at escape\Death is not at escape\bin\Debug\net8.0\Death is not at escape.runtimeconfig.json
+C:\Users\Student\source\repos\Death is not at escape\Death is not at escape\bin\Debug\net8.0\Death is not at escape.dll
+C:\Users\Student\source\repos\Death is not at escape\Death is not at escape\bin\Debug\net8.0\Death is not at escape.pdb
+C:\Users\Student\source\repos\Death is not at escape\Death is not at escape\obj\Debug\net8.0\Death is not at escape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Death is not at escape\Death is not at escape\obj\Debug\net8.0\Death is not at escape.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Death is not at escape\Death is not at escape\obj\Debug\net8.0\Death is not at escape.AssemblyInfo.cs
+C:\Users\Student\source\repos\Death is not at escape\Death is not at escape\obj\Debug\net8.0\Death is not at escape.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Death is not at escape\Death is not at escape\obj\Debug\net8.0\Death is not at escape.dll
+C:\Users\Student\source\repos\Death is not at escape\Death is not at escape\obj\Debug\net8.0\refint\Death is not at escape.dll
+C:\Users\Student\source\repos\Death is not at escape\Death is not at escape\obj\Debug\net8.0\Death is not at escape.pdb
+C:\Users\Student\source\repos\Death is not at escape\Death is not at escape\obj\Debug\net8.0\Death is not at escape.genruntimeconfig.cache
+C:\Users\Student\source\repos\Death is not at escape\Death is not at escape\obj\Debug\net8.0\ref\Death is not at escape.dll
