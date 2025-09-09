@@ -1,6 +1,6 @@
 ## Death-is-not-an-escape 💀
 
-  <span style="color: красный;"># My first horror game in cmd </span> 📟
+  <span style="color: red;"># My first horror game in cmd </span> 📟
 
 📡  Моя первая текстовая игра на C#, созданная в целях изучения языка. 🎓
 
